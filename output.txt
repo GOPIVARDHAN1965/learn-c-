@@ -1,5 +1,5 @@
-x from the function 
-10
-15
-20
-x from main statement after calling fucntion = 20
+    *    
+   ***   
+  *****  
+ ******* 
+*********
