@@ -57,11 +57,6 @@ void explainVector(){
     } 
 }
 
-void explainList(){
-
-}
-
-
 int main(){
     // explainPair();
     // explainVector();
