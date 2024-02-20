@@ -38,9 +38,6 @@ void most_freq(){
         }
     }
     cout << max << "-->" << max_c; 
-
-
-
 }
 
 
